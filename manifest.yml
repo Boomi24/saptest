@@ -20,7 +20,7 @@ applications:
       [
         {
           "name": "myapp",
-          "url": "https://myapp-thankful-emu-nb.cfapps.ap21.hana.ondemand.com",
+          "url": "https://myapp-lean-toucan-dn.cfapps.ap21.hana.ondemand.com",
           "forwardAuthToken": true
         }
       ]
